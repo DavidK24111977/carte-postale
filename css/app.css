@@ -13,6 +13,7 @@ body{
     padding: 30px;
     margin: 200px auto;
     box-shadow: 0 0 20px #aaaaaa;
+    min-width: 800px
 }
 .texte{
     margin-top: 120px;
