@@ -27,13 +27,12 @@ body{
     position: relative;
     border-left: 1px solid #000;
     padding-left: 20px;
-    text-align: -webkit-right;
-    text-align: -moz-right;
 }
 .timbre{
     width: 120px;
     height: 150px;
     border: 1px solid #000;
+    float: right;
 }
 .adresse{
     margin-top:140px;
